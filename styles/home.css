@@ -18,6 +18,11 @@ h1 {
     line-height: 25px;
 }
 
+#intro-text-wrapper {
+    width: 80%;
+    margin: auto;
+}
+
 #view-resume-text {
     margin-bottom: 28px;
 }
