@@ -8,6 +8,10 @@
     margin-bottom: 35px;
 }
 
+p {
+    line-height: 1.5;
+}
+
 #text-and-logos {
     text-align: left;
 }
@@ -22,7 +26,9 @@
 }
 
 #second-photo {
-    width: 280px;
+    width: 80%;
+    object-fit: cover;
+    max-width: 280px;
     height: 200px;
     margin-right: 28px;
     border-radius: 10px;

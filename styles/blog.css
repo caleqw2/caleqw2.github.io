@@ -1,0 +1,19 @@
+#blog-content-wrapper {
+    margin: auto;
+    width: 70%;
+    max-width: 1000px;
+    line-height: 1.5;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.post h2 {
+    margin-bottom: 10px;
+}
+.post img {
+    margin-top: 28px;
+    max-width: 300px;
+    width: 100%;
+    border: solid black 2px;
+    border-radius: 10px;
+
+}
