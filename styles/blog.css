@@ -31,6 +31,10 @@
     font-weight: normal;
 }
 
+.post h3:hover {
+    background-color: #dfe4e7;
+}
+
 .post a {
     text-decoration: none;
     color: inherit;

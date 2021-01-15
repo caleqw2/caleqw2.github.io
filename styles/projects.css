@@ -40,6 +40,10 @@
     font-weight: normal;
 }
 
+.info-text h3:hover {
+    background-color: #dfe4e7;
+}
+
 .info-text a {
     text-decoration: none;
     color: inherit;
