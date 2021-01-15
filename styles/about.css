@@ -8,21 +8,16 @@
     margin-bottom: 35px;
 }
 
-p {
-    line-height: 1.5;
-}
-
 #text-and-logos {
     text-align: left;
 }
 
 #logo-box {
-    display: flex;
     margin-top: 15px;
 }
 
 #logo-box img {
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 #second-photo {

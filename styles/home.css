@@ -29,6 +29,11 @@ h1 {
     margin-bottom: 28px;
 }
 
+#resume-text-wrap a {
+    text-decoration: underline;
+    color: inherit;
+}
+
 .logo {
     width: 48px;
     height: 48px;
