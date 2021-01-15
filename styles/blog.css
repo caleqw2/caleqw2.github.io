@@ -42,12 +42,14 @@ hr {
 }
 
 #back-button {
-    background-color: blue;
-    margin: auto;
-    width: 200px;
-    margin-bottom: 70px;
     text-decoration: none;
     color: inherit;
+}
+
+#back-button div {
+    margin: auto;
+    width: 200px;
+    padding-bottom: 70px;
 }
 
 #back-button img {
